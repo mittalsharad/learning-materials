@@ -5,7 +5,8 @@ Learning materials for ML
 - https://github.com/andkret/Cookbook
 
 ### github link for project:
-https://github.com/ChristeenTJose/Facial-Landmarks-and-ROI-creation
+- https://github.com/ChristeenTJose/Facial-Landmarks-and-ROI-creation
+- https://github.com/pydeveloperashish?tab=repositories
 
 ### jupyter notebook hacks:
 https://www.analyticsvidhya.com/blog/2020/04/10-productive-jupyter-notebook-hacks-tips-tricks/?utm_source=KJlinkedin&utm_medium=post&utm_campaign=23_August_intermediate_article
